@@ -1,0 +1,25 @@
+{
+    "name": "devhridoy/l6modular",
+    "description": "Modular pattern generator for Laravel 6.It is orginaly created by ArtemSchander, i was just implements for laravel 6",
+    "type": "library",
+    "keywords": ["laravel", "modular", "modules", "module", "structure", "pattern", "devhridoy", "l6modular", "l5modular", "artisan", "generator"],
+    "homepage": "https://github.com/gmfaruk/L6Modular",
+    "license": "MIT",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Omar Farook Hridoy",
+            "email": "gmfaruk2021@gamil.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.2.0",
+        "laravel/framework": ">=6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Devhridoy\\L6modular\\": "src/"
+        }
+    },
+}
