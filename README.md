@@ -1,5 +1,5 @@
 # L6Modular Modified by Gm Omar Farook Hridoy
-This package gives you the ability to use Laravel 5 with module system. You can simply drop or generate modules with their own controllers, models, views, translations and a routes file into the <code>app/Modules</code> folder and go on working with them.
+This package gives you the ability to use Laravel 6 with module system. You can simply drop or generate modules with their own controllers, models, views, translations and a routes file into the <code>app/Modules</code> folder and go on working with them.
 # Attention
 "This package originally created by artem-schander", I just modified some code and implement for <code>Laravel 6</code>. Thanks.
 
